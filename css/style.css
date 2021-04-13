@@ -103,8 +103,9 @@ overflow-y: auto;
 .todoList li span{
 position: absolute;
 right: -45px;
-background: rgb(41, 30, 30);
-color: #ffffff;
+/* background: rgb(54, 65, 87); */
+color: #000;
+font-size: 25px;
 width: 45px;
 text-align: center;
 border-radius: 0 3px 3px 0;
